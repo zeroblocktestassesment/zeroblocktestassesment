@@ -1,4 +1,4 @@
-name: DOCKER IMAGE CI
+name: DOCKER IMG
 
 on:
   push:
